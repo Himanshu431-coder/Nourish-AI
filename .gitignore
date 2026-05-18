@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.db
+chroma_db/
+*.mp3
+shopping_list.json
+eval_report.json
+.venv/
+venv/
